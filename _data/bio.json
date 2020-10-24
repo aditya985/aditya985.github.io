@@ -9,32 +9,24 @@
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
+      "postalCode": "382424",
+      "city": "Ahmedabad",
+      "countryCode": "India",
+      "region": "Hujarat"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "aditya985",
+        "url": "http://github.com/aditya985"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
+        "username": "Aditya Mishra",
         "url": "http://linkedin.com/in/changeme"
       },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
-      }
+      
+     
     ]
   },
   "interests": [
